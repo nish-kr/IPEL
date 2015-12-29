@@ -3,8 +3,6 @@
 #include <cassert>
 #include <cstdlib>
 
-using namespace NTL;
-
 ZZ_p find_primitive_root(ZZ p, ZZ q){
 	//p-1 = 2q
 	ZZ_p temp1, temp2;
