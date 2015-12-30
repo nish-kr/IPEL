@@ -1,1 +1,6 @@
 A library for doing linear function evaluation using Functional Encrytion.
+
+Compile files with the flags = -lntl -lgmp -lm
+	Example : g++ ddh.cpp -o ddh -lntl -lgmp -lm
+
+Thanks.
